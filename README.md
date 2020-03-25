@@ -1,2 +1,0 @@
-# TokoBuah
-Created with CodeSandbox
